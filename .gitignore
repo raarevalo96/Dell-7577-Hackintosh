@@ -1,4 +1,26 @@
 
 .DS_Store
 EFI/OC/Kexts/*.kext
-EFI/OC/dYSM/
+EFI/Dell/logs/diags_current.xml
+EFI/OC/dSYM/AppleALC.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/AppleALC.kext.dSYM/Contents/Resources/DWARF/AppleALC
+EFI/OC/dSYM/DeviceGenerator.dSYM/Contents/Info.plist
+EFI/OC/dSYM/DeviceGenerator.dSYM/Contents/Resources/DWARF/DeviceGenerator
+EFI/OC/dSYM/libaistat.dylib.dSYM/Contents/Info.plist
+EFI/OC/dSYM/libaistat.dylib.dSYM/Contents/Resources/DWARF/libaistat.dylib
+EFI/OC/dSYM/rtcread.dSYM/Contents/Info.plist
+EFI/OC/dSYM/rtcread.dSYM/Contents/Resources/DWARF/rtcread
+EFI/OC/dSYM/smc.dSYM/Contents/Info.plist
+EFI/OC/dSYM/smc.dSYM/Contents/Resources/DWARF/smc
+EFI/OC/dSYM/SMCBatteryManager.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/SMCBatteryManager.kext.dSYM/Contents/Resources/DWARF/SMCBatteryManager
+EFI/OC/dSYM/SMCProcessor.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/SMCProcessor.kext.dSYM/Contents/Resources/DWARF/SMCProcessor
+EFI/OC/dSYM/smcread.dSYM/Contents/Info.plist
+EFI/OC/dSYM/smcread.dSYM/Contents/Resources/DWARF/smcread
+EFI/OC/dSYM/SMCSuperIO.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/SMCSuperIO.kext.dSYM/Contents/Resources/DWARF/SMCSuperIO
+EFI/OC/dSYM/VirtualSMC.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/VirtualSMC.kext.dSYM/Contents/Resources/DWARF/VirtualSMC
+EFI/OC/dSYM/WhateverGreen.kext.dSYM/Contents/Info.plist
+EFI/OC/dSYM/WhateverGreen.kext.dSYM/Contents/Resources/DWARF/WhateverGreen
