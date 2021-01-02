@@ -1,0 +1,17 @@
+Download and place on this folder the latest versions of the following kexts:
+- AppleALC
+- HoRNDIS (optional, Android USB Tethering)
+- IntelBluetoothFirmware
+- IntelBluetoothInjector
+- itlwm
+- Lilu
+- RealtekRTL8111
+- SMCBatteryManager.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
+- USBInjectAll.kext
+- VirtualSMC.kext
+- VoodooI2C.kext
+- VoodooI2CHID.kext
+- VoodooPS2Controller.kext
+- WhateverGreen.kext

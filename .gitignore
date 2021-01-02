@@ -1,0 +1,4 @@
+
+.DS_Store
+EFI/OC/Kexts/*.kext
+EFI/OC/dYSM/
